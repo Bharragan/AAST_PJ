@@ -1,0 +1,20 @@
+{
+  "n_classes": 5,
+  "classes": [
+    "HY",
+    "LP",
+    "TC",
+    "TR",
+    "VT"
+  ],
+  "n_train": 4301,
+  "n_val": 922,
+  "n_test": 922,
+  "sampling_rate": 200,
+  "duration_seconds": 670.0,
+  "n_samples": 134000,
+  "normalization": "zscore",
+  "train_split": 0.7,
+  "val_split": 0.15,
+  "test_split": 0.15
+}
