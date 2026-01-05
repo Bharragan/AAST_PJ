@@ -1,0 +1,6 @@
+paths:
+  data_root: "K:/"
+  labeled_data: "K:/ckelar_label_data"
+  unlabeled_data: "K:/Lascar_2018_2024/Pms"
+  figures_output: "figures"
+  tables_output: "tables"
