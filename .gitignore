@@ -1,0 +1,49 @@
+# =========================
+# Entornos
+# =========================
+.env
+.venv
+venv/
+__pycache__/
+*.pyc
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Datos (CKELAR y derivados)
+# =========================
+data/**
+!data/.gitkeep
+
+processed_data/**
+!processed_data/.gitkeep
+
+# =========================
+# Figuras y resultados
+# =========================
+figures/**
+!figures/.gitkeep
+
+tables/**
+!tables/.gitkeep
+
+# =========================
+# Modelos y binarios
+# =========================
+*.npz
+*.pkl
+*.keras
+*.h5
+*.joblib
+*.csv
+*.json
+
+# =========================
+# Logs y temporales
+# =========================
+*.log
+*.tmp
+*.bak
